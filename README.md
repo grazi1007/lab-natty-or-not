@@ -20,23 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Saúde ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um texto curto resumindo a conquista do novo corpo pós bariátrica, lembrando que a cirurgia não foi um atalho, que tem dificuldades, mas vale cada sacrifício quando se olha no espelho e quando a saúde melhora
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao chat gpt um texto com as ideias acima por meio de digitação
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A Conquista do Novo Corpo: Mais do que uma Cirurgia, uma Transformação
+
+A cirurgia bariátrica não foi um atalho, mas sim um passo decisivo rumo à transformação. Não se trata de uma solução mágica; é um processo que exige paciência, disciplina e, acima de tudo, coragem. Ao longo do caminho, as dificuldades são muitas — adaptações alimentares, desafios emocionais e o esforço constante para manter os novos hábitos. Mas, a cada sacrifício, a cada superação, a recompensa vai além da balança.
+
+Olhar no espelho e ver um corpo renovado é uma sensação indescritível. Mas, talvez o maior ganho seja o bem-estar que vem com a saúde restaurada. A energia renovada, a redução de doenças associadas à obesidade e a sensação de se sentir vivo de novo fazem tudo valer a pena. Cada conquista, por menor que seja, é um lembrete de que a jornada vale o esforço, e que o novo corpo não é apenas físico, mas também uma vitória emocional.
+
+A verdadeira mudança vai além do corpo. Ela está na força que encontramos em nós mesmos para seguir em frente.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Crieir um texto simples, mas achei muito bom
 
 ### Exemplos e Insigths
 
